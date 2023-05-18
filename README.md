@@ -7,7 +7,7 @@
 - ✉️ E-mail: paulosch14@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulloDS&theme=dark&show_icons=true)](https://github.com/PaulloDS/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulloDS&theme=dark&show_icons=true)](https://github.com/PaulloDS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulloDS&theme=dark)](https://github.com/PaulloDS/github-readme-stats)
 
 <div style="display: flex; align-items: center;"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
