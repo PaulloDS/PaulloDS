@@ -7,7 +7,7 @@
 
 ##
 - 💻 Estudando Engenharia de Software
-- ⚛️ Estudando Front-end
+- ⚛️ Estudante Full Stack
 - ✉️ E-mail: paulosch14@gmail.com
 - 🌍 São Paulo, Brasil
 
